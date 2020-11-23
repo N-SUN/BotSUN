@@ -1,0 +1,29 @@
+{
+  "name": "accountgenbot",
+  "version": "2.0.0",
+  "description": "Account generator Bot EPICC",
+  "main": "jewdev.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ph"
+  },
+  "author": "lait",
+  "license": "MIT",
+  "bugs": {
+    "url": "ph"
+  },
+  "homepage": "discord.gg",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0"
+  }
+}
