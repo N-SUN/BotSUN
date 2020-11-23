@@ -44,7 +44,7 @@ client.on('ready', function() {
         game: {
           name: `${statuslist[random]}`,
           type: "Streaming",
-          url: 'https://www.twitch.tv/pewdiepie',
+          url: 'https://www.twitch.tv/n4sun',
         },
         status: "DND"
       });
