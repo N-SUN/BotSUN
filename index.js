@@ -34,8 +34,8 @@ client.on('warn', () => console.warn);
 client.on('ready', function() {
       setInterval(async () => {
     const statuslist = [
-      `.stock - NightGen`,
-      `.help - NightGen`,
+      `.stock - Agent-715`,
+      `.help - Agent-715`,
     ];
     const random = Math.floor(Math.random() * statuslist.length);
 
